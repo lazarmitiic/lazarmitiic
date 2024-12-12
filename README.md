@@ -20,7 +20,7 @@ Hi there! 👋 My name is lazar, and I'm a beginner programmer passionate about 
 
 ## 📂 Projects  
 Here are a few small projects I've worked on so far:  
-1. **[To-Do List App](#)**: A simple app to manage daily tasks (Python).  
+1. **[Letter Case Counter](https://github.com/lazarmitiic/LetterCaseCounter))**: A Python program to count uppercase letters, lowercase letters, digits, and special characters in a text input. (Python)
 2. **[Celsius to Kelvin Converter](#)**: Converts Celsius to Kelvin using Java constants.  
 3. **[Basic Calculator](#)**: A Python script for basic arithmetic operations.  
 
