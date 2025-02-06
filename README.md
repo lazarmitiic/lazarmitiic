@@ -29,6 +29,6 @@ Check back often—I’m actively updating my repositories with new projects!
 ## 🌱 Let's Connect  
 I'm open to collaboration and learning opportunities! Feel free to reach out or contribute to my projects:  
 - 📧 Email: lazarmitiic@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/lazar-mitic-71324633a/
+- 🌐 LinkedIn: https://www.linkedin.com/in/lazar-mitic/
 
 Thanks for visiting my profile! 😊  
