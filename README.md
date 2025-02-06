@@ -9,9 +9,9 @@ Hi there! 👋 My name is lazar, and I'm a beginner programmer passionate about 
 - 💡 I'm focused on building real-world projects to expand my skills.  
 
 ## 🛠️ Skills & Tools  
-- **Programming Languages**: Python, Java (beginner level)  
+- **Programming Languages**: Python, Java 
 - **Version Control**: Git, GitHub (learning to manage and share my code)  
-- **Currently Exploring**: Flask, Django, and Android development with Java  
+- **Currently Exploring**: Spring and Android development with Java  
 
 ## 📚 Current Goals  
 1. Build a portfolio of projects in Python and Java  
